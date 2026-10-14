@@ -1,0 +1,12 @@
+{
+  "segment_length": 180,
+  "half_window": 90,
+  "class_names": [
+    "N",
+    "S",
+    "V",
+    "F",
+    "Q"
+  ],
+  "normalization": "z-score per 180-sample segment"
+}
